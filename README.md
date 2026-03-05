@@ -41,7 +41,7 @@ Notification Method: Automated email alert
 Reset Period: Monthly
 
 ## Screenshot
-![OCI Budget Alert](oci-budget-alert.png)
+![OCI Budget Alert](oci-budget-alert.webp)
 
 ## Author
 Dintle Maine, BCom Information Systems and Management, University of the Witwatersrand 2025
