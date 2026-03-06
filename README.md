@@ -46,3 +46,20 @@ Reset Period: Monthly
 ## Author
 Dintle Maine, BCom Information Systems and Management, University of the Witwatersrand 2025
 GitHub: github.com/dintlemaine-png
+
+## GCP Budget Alert Screenshot
+![GCP Budget Alert](gcp-budget-alert.png)
+
+## Multi-Cloud Comparison
+| Feature | OCI | GCP |
+|---|---|---|
+| Budget Amount | €5 per month | $5 per month |
+| Alert Thresholds | 80% actual spend | 50%, 90%, 100% actual spend |
+| Notification Method | Email | Email to billing admins |
+| Region | South Africa Central, Johannesburg | Global |
+| Reset Period | Monthly | Monthly |
+
+## Key Insight
+GCP provides three automatic threshold alerts compared to OCI's single 
+configurable threshold. Both platforms provide robust cost governance 
+capabilities suitable for enterprise cloud environments.
